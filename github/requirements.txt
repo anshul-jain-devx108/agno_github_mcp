@@ -1,0 +1,9 @@
+agno 
+
+mcp 
+
+google-genai
+
+fastapi
+
+uvicorn
